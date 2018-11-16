@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1279779-6807-4142-b7c3-f7f9ae5ffddb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/FormationComment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/comment_list.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/comment_view.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/fetch_comment_list.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/form/comment.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/home.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/standard/templates/formation/templating.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/comment_add.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/comment_list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/comment_view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/ezformationfunctioncollection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/fetch_comment_list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/function_definition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/module.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/templating.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/formation/url_structure.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/design.ini.append.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/module.ini.append.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/site.ini.append.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/mysql/schema.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="b1279779-6807-4142-b7c3-f7f9ae5ffddb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +12,7 @@
     <session id="-232775282">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -121,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542383150266</updated>
-      <workItem from="1542383151608" duration="319000" />
+      <workItem from="1542383151608" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319000" />
+    <option name="totallyTimeSpent" value="523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -137,7 +116,7 @@
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33040616" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.62788147" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
